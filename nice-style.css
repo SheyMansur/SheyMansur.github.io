@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+#blue-heading {
+    color: blue;
+}
+
+#green-heading {
+    color: green
+}
+
+.cool-font {
+    font-family: monospace;
+}
+
+img {
+    display: hidden;
+}
